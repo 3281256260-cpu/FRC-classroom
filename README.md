@@ -7,3 +7,9 @@ public class Push{
         System.out.println("This is last one edit!");
     }
 }
+void main(){
+ while(1)
+ {
+     scan[1];
+ }
+}
